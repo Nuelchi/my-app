@@ -1,9 +1,9 @@
 // import logo from './logo.svg';
 import './App.css';
-import searchIcon from './search.png';
+
 
 import MovieCard from './card.jsx';
-import React from 'react';
+
 import { useEffect, useState } from 'react';
 
 // function App() {
