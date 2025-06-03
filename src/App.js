@@ -79,7 +79,7 @@ import { useEffect, useState } from 'react';
 
 //dd0a8f0d
 
-const API_URL = 'http://www.omdbapi.com/?apikey=dd0a8f0d'
+const API_URL = 'https://www.omdbapi.com/?apikey=dd0a8f0d'
 
 
 const App = () => {
